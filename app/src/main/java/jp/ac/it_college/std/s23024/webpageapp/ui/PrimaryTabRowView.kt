@@ -46,7 +46,7 @@ PrimaryTabRow(selectedTabIndex = tabIndex) {
 }
 }
 
-@Preview
+@Preview(showBackground = true)
 @Composable
 private fun PrimaryTabRowViewPreview() {
     var index by remember { mutableStateOf(0) }
