@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "jp.ac.it_college.std.s23024.webpageapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "jp.ac.it_college.std.s23024.webpageapp"
